@@ -1,0 +1,313 @@
+body{ 
+    background-color: rgb(196, 170, 151);
+    background-image: url(../image/coffee2.jpg);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
+*{
+    font-family: 'Bonheur Royale', cursive;
+}
+
+.image {
+    background-color: var(--warnacoklat1);
+
+    width: 300px;
+    max-height: 400px;
+
+
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px; 
+
+
+ 
+    border-radius: 10%; 
+    border: 5px double snow
+    
+
+
+}
+
+.gambar-delia li {
+    width: 200px;
+    height: 300px;
+
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+.gif {
+    height: 100px;
+}
+.gif-coffee {
+    /*padding-left: 1000px;*/
+    /*padding-top: 50px;*/
+    
+    text-align: left;
+    float: left;
+}
+
+:root {
+    --warnacoklatmuda: rgb(240, 212, 169);
+    --warnacoklat1: rgb(143, 104, 92);
+
+}
+
+
+.intro{
+    background-color: var(--warnacoklat1);
+    border: 5px double snow
+    
+
+}
+
+.intro #greeting{
+    background-color: rgb(61, 51, 44);
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+    border: 5px double snow;
+    color: blanchedalmond;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.intro #name{
+    background-color: var(--warnacoklatmuda);
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+ 
+
+    font-style: italic;
+    font-size: 20px;
+    border: 5px double snow
+}
+
+.data{
+    background-color: var(--warnacoklat1);
+    border: 5px double snow
+
+}
+
+.data #myname{
+    background-color: var(--warnacoklatmuda);
+    /*padding-left: 475px;
+    padding-right: 500px;*/
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+    text-align: center;
+    border: 3px dotted rgb(61, 51, 44);
+    font-style: italic;
+    font-size: 20px;
+    font:bold
+    
+}
+
+.data #birth{
+    background-color: rgb(206, 175, 129);
+    /*padding-left: 475px;
+    padding-right: 500px;*/
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+ 
+
+    text-align: center;
+    border: 3px dotted rgb(61, 51, 44);
+    font-style: italic;
+    font-size: 20px;
+    font:bold
+
+}
+
+.data #ig{
+    background-color: var(--warnacoklatmuda);
+    /*padding-left: 475px;
+    padding-right: 500px;*/
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+ 
+    text-align: center;
+    border: 3px dotted rgb(61, 51, 44);
+    font-style: italic;
+    font-size: 20px;
+    font:bold
+
+}
+
+.data #mail{
+    background-color: rgb(206, 175, 129);
+    /*padding-left: 475px;
+    padding-right: 500px;*/
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+ 
+
+    text-align: center;
+    border: 3px dotted rgb(61, 51, 44);
+    font-style: italic;
+    font-size: 20px;
+    font:bold
+    
+}
+
+.school{
+    background-color: var(--warnacoklat1);
+    
+
+}
+
+.school #pendidikan{
+    background-color: rgb(61, 51, 44);
+
+    border: 5px double snow;
+    height: 50x;
+    /*padding-left: 495px;
+    padding-right: 500px;*/
+    
+    text-align: center;
+    color: blanchedalmond;
+    font-style: italic;
+    font-size: 25px;
+    font:bold
+}
+
+.school #table{
+    background-color: var(--warnacoklatmuda);
+  
+    padding-left: 435px;
+    padding-right: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    font-style: italic;
+    font-size: 23px;
+    font:bold
+}
+
+.CupOf-Coffee {
+    width: 150px;
+    height: 150px;
+
+}
+
+
+
+.pengalaman{
+    background-color: var(--warnacoklat1);
+    border: 5px double snow
+}
+
+.pengalaman #organisasi{
+    background-color: rgb(61, 51, 44);
+
+    color: blanchedalmond;
+
+    
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    font-style: italic;
+    font-size: 25px;
+    font:bold
+}
+
+.pengalaman #ketua{
+    background-color: var(--warnacoklatmuda);
+
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    line-height: 30px;
+
+    font-style: italic;
+    font-size: 20px;
+
+    border: 5px dotted snow
+}
+
+.inspiration{
+    background-color: var(--warnacoklat1);
+    border: 5px double snow
+ 
+}
+
+.inspiration #inspirasi{
+    background-color: var(--warnacoklatmuda);
+
+    border: 5px double rgb(61, 51, 44);
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+ 
+    font-style: italic;
+    font-size: 25px;
+    font:bold
+}
+
+.inspiration #web{
+    background-color: var(--warnacoklatmuda);
+
+    border: 5px double rgb(61, 51, 44);
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+ 
+
+    font-style: italic;
+    font-size: 20px;
+    font:bold
+}
